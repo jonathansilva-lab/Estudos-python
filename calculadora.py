@@ -4,7 +4,7 @@ def main(): # define a função main, que é a função que executa o progama
     num1=int(input('Digite um numero: '))
     num2=int(input('Digite outro numero: '))
 
-# estou pedindo para o python ler um numero inteiro e armazenar na memoria, e depois ler outro numero inteiro e armazenar para depois soma-l
+# estou pedindo para o python ler um numero inteiro e armazenar na memoria, e depois ler outro numero inteiro e armazenar para depois somar, subtrair, multiplicar ou dividir.
     
 
     print('1- soma')
