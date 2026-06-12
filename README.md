@@ -1,2 +1,13 @@
 # Estudos-python
-Meus estudos e projetos em Python durante minha jornada de aprendizado.
+Repositório criado para armazenar meus estudos e projetos em Python.
+
+## Projetos
+
+### Calculadora
+Primeira calculadora criada por mim para praticar:
+
+- Funções
+- Variáveis
+- Input
+- If e Elif
+- Operações matemáticas
